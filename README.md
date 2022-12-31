@@ -1,4 +1,4 @@
-# MITH2
+# Insurance Claim
 Prediction of Auto Insurance Claim detection
 •	Problem statement is related is to insurance  domain
 •	Performed a key role in Machine learning : Data gathering, cleaning ,Feature engineering ,Feature Selection ,Data visualization 
